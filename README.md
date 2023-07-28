@@ -5,13 +5,13 @@ In this SQL Project for Data Analysis, We will learn to efficiently leverage var
 𝗪𝗵𝗮𝘁 𝗶𝘀 𝘁𝗵𝗲 𝗔𝗴𝗲𝗻𝗱𝗮 𝗼𝗳 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁?
 The project’s Agenda involves Analyzing the data using SQL on the MySQL Database Software. We first download the MySQL Workbench 8.0 edition from the MySQL website and understand the problem. Then tables are created in the database followed by data insertion into tables and exploration, i.e., noticing relationships between tables, walking through the columns, and seeing comments. And perform the following activties--
 
-Records are displayed in an ordered manner, handling NULL values, and selecting records based on patterns like Wildcard, Operators, etc. Then working on Data Manipulation commands(DML) for Data Analysis. Then taking Backup of the Table where migration is going on and use COMMIT and ROLLBACK commands.
-Understanding different types of Joins(Inner join, Left outer join, Right outer join, Full outer join, Self join), different types of Operators(Minus, Union, Union all, Intersect).
-data analysis using Sub-query, Group-by clause and Exists clause. It also consists of using inline view and aggregate functions(Min, Max, Count, Avg) to perform better analysis on data.
-data analysis using WITH clause, the difference between COUNT(*) and COUNT(column_name), Categorization using the CASE statement, and various real-life case studies/problem statements.
-data analysis using different SQL functions like ROW_NUMBER, RANK, DENSE_RANK, SUBSTR, INSTR, COALESCE and NVL. It also involves the use of some built-in functions like concat, upper, lower, initcap, rtrim, ltrim, length, lpad, rpad.
-introduction to Data Wrangling, operations on missing data, unwanted features and duplicated records. It also involves the use of the pivot and unpivot in SQL.
-understanding of the Online Shopping Database, and using this database to perform the following Data Wrangling activities-
+1.Records are displayed in an ordered manner, handling NULL values, and selecting records based on patterns like Wildcard, Operators, etc. Then working on Data Manipulation commands(DML) for Data Analysis. Then taking Backup of the Table where migration is going on and use COMMIT and ROLLBACK commands.
+2.Understanding different types of Joins(Inner join, Left outer join, Right outer join, Full outer join, Self join), different types of Operators(Minus, Union, Union all, Intersect).
+3.data analysis using Sub-query, Group-by clause and Exists clause. It also consists of using inline view and aggregate functions(Min, Max, Count, Avg) to perform better analysis on data.
+4.data analysis using WITH clause, the difference between COUNT(*) and COUNT(column_name), Categorization using the CASE statement, and various real-life case studies/problem statements.
+5.data analysis using different SQL functions like ROW_NUMBER, RANK, DENSE_RANK, SUBSTR, INSTR, COALESCE and NVL. It also involves the use of some built-in functions like concat, upper, lower, initcap, rtrim, ltrim, length, lpad, rpad.
+6.introduction to Data Wrangling, operations on missing data, unwanted features and duplicated records. It also involves the use of the pivot and unpivot in SQL.
+7.understanding of the Online Shopping Database, and using this database to perform the following Data Wrangling activities-
 a. Split full name into the first name and last name.
 b. Correct phone numbers and emails which are not in a proper format and Correct contact number and remove full name.
 c. Read BLOB column and fetch attribute details from the regular tag, nested columns.
